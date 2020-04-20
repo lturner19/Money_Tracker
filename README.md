@@ -61,7 +61,7 @@ To run on local computers:
 ### PREVIEW
 
 
-<img src="public/assets/images/Money_Tracker_App.gif">
+<img src="public/assets/images/Money_Tracker_App.gif" alt="tracker preview">
 
 <br>
 
