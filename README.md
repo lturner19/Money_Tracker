@@ -1,12 +1,15 @@
 # Where Is My Money?
 ## INTRODUCTION
 
-As a budget conscious consumer I want an app that will allow me to track my debits and credits when I do and do not have access to internet.
+As a budget conscious consumer I want an app that will allow me to track my expenses when I do and do not have access to internet.
 
 <br>
 
 ## DESCRIPTION
 
+A budget tracker that will allow users to keep track of their expenses while traveling around the world or simply traveling around town.  
+If a user does not have access to internet services, the app will continue to keep track of all debits and credits and then update the app once a connection is re-established. 
+The user can also visually track their expenses with the generated graph and a total is displayed above the transactions.
 
 
 <br>
@@ -23,7 +26,11 @@ As a budget conscious consumer I want an app that will allow me to track my debi
 
 ## FEATURES
 
+1. The ability to add and subtract funds while on and offline.
 
+2. A graph will display all enteries provided
+
+3. The ability to see the current total of funds available.
 
 
 <br>
@@ -51,6 +58,7 @@ To run on local computers:
 ### PREVIEW
 
 
+<img src="public/assets/images/Money_Tracker_App.gif">
 
 <br>
 
