@@ -16,7 +16,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 //setup required to connect to MLab db
-var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/budget";
+const MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/budget";
 
 mongoose.connect(MONGODB_URI, {
   //prevents deprecation warning
@@ -25,9 +25,9 @@ mongoose.connect(MONGODB_URI, {
   useUnifiedTopology: true
 });
 
-// routes
+// route
 app.use(require("./routes/api.js"));
-app.use(require("./routes/htmlRoute.js"));
+
 
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
