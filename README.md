@@ -1,6 +1,7 @@
 # Where Is My Money?
 ## INTRODUCTION
 
+As a budget conscious consumer I want an app that will allow me to track my debits and credits when I do and do not have access to internet.
 
 <br>
 
@@ -39,11 +40,11 @@ To run on local computers:
 
     c. *Morgan*: Middleware logger for Node.js
 
+    d. *Compression*: Decreases the size of JSON and other static files.
+
+    e. *Lite-Server*: Lightweight development only node server that serves a web app, opens in browser, and refreshes when there are changes to html or JavaScript.
+
 2. Users should also have access to MongoDB.
-
-3. To add the schema (seed.js), users can type: **npm run seed**
-
-
 
 <br>
 
@@ -58,7 +59,7 @@ To run on local computers:
 
 ***Deployed to Heroku***
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://arcane-citadel-06856.herokuapp.com/)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://safe-ridge-63980.herokuapp.com/)
 
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/lturner19/Where_is_my_money)
