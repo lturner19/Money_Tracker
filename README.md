@@ -1,4 +1,7 @@
-# Where Is My Money?
+# Money Tracker
+
+<br>
+
 ## INTRODUCTION
 
 As a budget conscious consumer I want an app that will allow me to track my expenses when I do and do not have access to internet.
