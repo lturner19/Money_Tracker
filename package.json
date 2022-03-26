@@ -27,7 +27,7 @@
     "morgan": "^1.9.1"
   },
   "devDependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "resolutions": {
     "minimist": "^1.2.5"
